@@ -18,16 +18,12 @@ start the project by running `mvn spring-boot:run`
 - Feel free to add any packages that you need to help create Entity, DAO, or DTO.
 
 ## Requirements
-- As a user, When I signup for the application, I should be able to enter my username, password, and full name.
-- As a user, When I login with the correct credential, I should receive an access token.
-- As a user, When I login with the wrong credential, I should receive an error saying "invalid username/password"
-- As a user, I should not be able to access my personal notes without validating my credential.
-- As a user, I should not be able to access other people notes.
-- As a user, I want to be able to add a note in my personal note.
-- As a user, I want to be able to delete a note in my personal note.
-- As a user, I want to be able to view a note details in my personal note.
-- As a note, I should have a title that is shown in the user's personal notes
-- As a note, I should have a description that is shown in the detail view.
+- As a user, I want to be able to add a note.
+- As a user, I want to be able to delete a note by id.
+- As a user, I want to be able to view a list of notes.
+- As a user, I want to be able to view a note details by id.
+- As a note, I should have a title.
+- As a note, I should have a description.
 
 
 ## Submission
