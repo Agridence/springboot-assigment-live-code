@@ -6,3 +6,4 @@ So you have took time to look around the files and found this page. Do note that
 - Write test cases to your repository that you have created.
 - Write test cases to your service that you have created.
 - Write test cases to your controller that you have created.
+- Generate swagger api doc.
